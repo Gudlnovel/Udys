@@ -1,2 +1,0 @@
-# Udys
-For a client 
